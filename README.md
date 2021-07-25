@@ -1,2 +1,2 @@
-# vue
+Curso de VUE da Alura
  
